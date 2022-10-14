@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数组 - 复习", "数组 - 复习\数组 - 复习.vcxproj", "{60435319-1F7F-453C-95E0-A170437640C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60435319-1F7F-453C-95E0-A170437640C8}.Debug|x64.ActiveCfg = Debug|x64
+		{60435319-1F7F-453C-95E0-A170437640C8}.Debug|x64.Build.0 = Debug|x64
+		{60435319-1F7F-453C-95E0-A170437640C8}.Debug|x86.ActiveCfg = Debug|Win32
+		{60435319-1F7F-453C-95E0-A170437640C8}.Debug|x86.Build.0 = Debug|Win32
+		{60435319-1F7F-453C-95E0-A170437640C8}.Release|x64.ActiveCfg = Release|x64
+		{60435319-1F7F-453C-95E0-A170437640C8}.Release|x64.Build.0 = Release|x64
+		{60435319-1F7F-453C-95E0-A170437640C8}.Release|x86.ActiveCfg = Release|Win32
+		{60435319-1F7F-453C-95E0-A170437640C8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9C6ED3-E464-4DA4-B4DC-7EE25F387042}
+	EndGlobalSection
+EndGlobal
